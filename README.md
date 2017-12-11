@@ -3,7 +3,7 @@
 
 #### Personal
 
-* [EBB047D2-public.asc](EBB047D2-public.asc)
+* [EBB047D2-public.asc](https://raw.githubusercontent.com/jefforulez/gpg-keys/master/EBB047D2-public.asc)
 
 ```
 sec>  rsa4096 2016-02-04 [SC] [expires: 2020-02-04]
@@ -15,7 +15,7 @@ ssb>  rsa4096 2016-02-04 [E] [expires: 2020-02-04]
 
 #### Professional
 
-* [BA51BC9D-public.asc](BA51BC9D-public.asc)
+* [BA51BC9D-public.asc](https://raw.githubusercontent.com/jefforulez/gpg-keys/master/BA51BC9D-public.asc)
 
 ```
 sec>  rsa4096 2015-09-08 [SC] [expires: 2020-09-06]
